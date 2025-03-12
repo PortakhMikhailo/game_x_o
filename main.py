@@ -1,7 +1,7 @@
 from PySimpleGUI import *
 
 X, O = 0, 0
-theme('DarkAmber')
+theme('DarkTanBlue')
 
 
 def createLayout():
